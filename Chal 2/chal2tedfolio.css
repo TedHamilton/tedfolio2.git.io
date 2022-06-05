@@ -5,13 +5,95 @@
 }      
 
 body {
-    background-color: burlywood
+    background-color: black
 }
 
 .header {
 
-    margin: 25px;
-    padding: 5px;
-    background-color:lightblue
+    margin: 0px;
+    margin-bottom:20px;
+    padding: 10px;
+    padding-bottom: 0px;
+    background-color:darkgoldenrod;
+    text-align: right;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size:x-large;
+    color:yellow
+}
+.title-one{
+    text-align: center;
+}
 
+.dropdown{
+    display:inline-block
+    position relative;
+
+}
+
+
+#resource-button{
+    background-color: yellow;
+    opacity:50%;
+}
+    
+.dropdown-content{
+    display:none;
+    position:absolute;
+    width:100%;
+    overflow:auto;
+    box-shadow:0px 8px 16px 0px rgba(o,o,o,0.2);
+}
+
+.dropdown:hover .dropdown-content{
+    display:block;
+}
+
+.about-me{
+    margin-left:30px;
+}
+
+.container1{
+    position:relative;
+    margin-left:30px;
+    
+}
+.image1{
+    margin-top:-20px;
+}
+
+.text-block1{
+    position:absolute;
+    top:300px;
+    left:0px;
+    margin:5px;
+    background-color:goldenrod;
+    color:cornsilk;
+    padding:20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: larger;
+}
+
+.container2{
+    position:absolute;
+    top:30px;
+    right:10px;
+    margin-right:30px;
+}
+
+.text-block2{
+    position:absolute;
+    top:100px;
+    right:0px;
+    margin:15px;
+    margin-right:20px;
+    background-color:goldenrod;
+    color:cornsilk;
+    padding:20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: larger;
+}
+
+.image2{
+    margin-top:-20px;
+    position:relative;
 }
