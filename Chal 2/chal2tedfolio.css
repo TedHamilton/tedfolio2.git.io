@@ -5,11 +5,12 @@
 }      
 
 body {
-    background-color: black
+    background-color: black;
 }
 
 .header {
  
+    width:100%;
     margin: 0px;
     margin-bottom:20px;
     padding: 10px;
@@ -18,17 +19,30 @@ body {
     text-align: right;
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size:x-large;
-    color:yellow
+    color:yellow;
 }
 .title-one{
     text-align: center;
 }
  
-.dropdown{
-    display:inline-block
-    position relative;
-
-}
+.dropdown {
+    position: relative;
+    display: inline-block;
+  }
+  
+  .dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    padding: 12px 16px;
+    z-index: 1;
+  }
+  
+  .dropdown:hover .dropdown-content {
+    display: block;
+  }
 
 
 #resource-button{
@@ -36,35 +50,20 @@ body {
     opacity:50%;
 }
     
-.dropdown-content{
-    display:none;
-    position:absolute;
-    width:100%;
-    overflow:auto;
-    box-shadow:0px 8px 16px 0px rgba(o,o,o,0.2);
-}
-
-.dropdown:hover .dropdown-content{
-    display:block;
-}
-
-.about-me{
-    margin-left:30px;
-}
 
 .container1{
-    position:relative;
+    position:absolute;
     margin-left:30px;
+    width:40%;
     
 }
 .image1{
-    margin-top:-20px;
+    position:absolute;
+    margin-top:0px;
 }
 
 .text-block1{
     position:absolute;
-    top:300px;
-    left:0px;
     width: 40%;
     margin:5px;
     background-color:goldenrod;
@@ -76,15 +75,13 @@ body {
 
 .container2{
     position:absolute;
-    bottom:30px;
-    right:20px;
+    left:800px;
+    bottom:10px;
     margin-bottom:20px;
 }
 
 .text-block2{
     position:relative;
-    top:100px;
-    right:0px;
     width:40%;
     margin:15px;
     margin-right:20px;
@@ -96,6 +93,7 @@ body {
 }
 
 .image2{
-    position:relative;
+    position:absolute;
+
 
 }
