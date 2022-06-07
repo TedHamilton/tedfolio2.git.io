@@ -9,18 +9,20 @@
     --cornsilk: cornsilk;
     --goldenrod: goldenrod;
     --black: black;
+    --yellow: yellow;
 }
 
 body {
     background-color: var(--black);
+    margin-right:-30px;
 }
 
 .header {
  
-    width:100%;
+    max-width:100%;
     margin: 0px;
     margin-bottom:20px;
-    padding: 10px;
+    padding: 25px;
     padding-bottom: 0px;
     background-color: var(--goldenrod);
     text-align: right;
@@ -29,13 +31,14 @@ body {
     color:var(--cornsilk);
 }
 
+span{
+    margin-right: 100px;
+}
+
 h1{
 text-align: center;
 }
 
-.title-one{
-    text-align: center;
-}
  
 .dropdown {
     position: relative;
@@ -46,6 +49,7 @@ text-align: center;
     display: none;
     position: absolute;
     background-color: var(--cornsilk);
+    color: var(--yellow);
     min-width: 160px;
     box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
     padding: 12px 16px;
