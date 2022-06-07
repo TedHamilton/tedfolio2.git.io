@@ -81,10 +81,34 @@ text-align: center;
     font-size: larger;
 }
 
+.picture-me{
+
+max-width: 300px;
+height:500px;
+background-size:cover;
+float:right;
+margin-right:250px;
+padding:5px;
+background-color: var(--goldenrod);
+filter:grayscale(100%);
+-webkit-filter: grayscale(100%);
+-webkit-transition: all 1s ease;
+
+}
+
+.picture-me:hover{
+
+    filter:grayscale(0%);
+    filter:gray;
+    -webkit-filter: grayscale(0%);
+    filter:none;
+    transition: 1s ease;
+}
+
 .container2{
     position:absolute;
     margin-left:30px;
-    margin-top:6000px;
+    margin-top:600px;
     width:100%;
 }
 
