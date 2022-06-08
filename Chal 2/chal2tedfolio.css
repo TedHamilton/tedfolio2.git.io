@@ -137,21 +137,14 @@ filter:grayscale(100%);
 
 }
 
-.container3{
-    position:absolute;
-    margin-top:600px;
-    margin-bottom:20px;
-    width:100%;
-    align
-}
 
 .text-block3{
     position:absolute;
-    width:40%;
-    margin:5px;
+    width:100%;
+    margin-top:600px;
     background-color: var(--goldenrod);
     color: var(--cornsilk);
-    padding:2px;
+    padding:5px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: larger;
     text-align:center;
