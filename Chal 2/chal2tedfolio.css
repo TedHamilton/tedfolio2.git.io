@@ -135,3 +135,22 @@ filter:grayscale(100%);
 
 
 }
+
+.container3{
+    position:absolute;
+    margin-left:30px;
+    margin-top:1150px;
+    margin-bottom:20px;
+    width:100%;
+}
+
+.text-block3{
+    position:absolute;
+    width:40%;
+    margin:5px;
+    background-color: var(--goldenrod);
+    color:cornsilk;
+    padding:2px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: larger;
+}
