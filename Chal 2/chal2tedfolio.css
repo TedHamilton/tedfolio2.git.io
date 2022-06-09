@@ -12,9 +12,10 @@
     --yellow: yellow;
 }
 
-body {
+.body {
     background-color: var(--black);
     margin-right:-60px;
+    flex-wrap:wrap
 }
 
 .header {
