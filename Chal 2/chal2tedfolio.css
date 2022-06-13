@@ -114,6 +114,7 @@ margin-right:250px;
 padding:5px;
 background-color: var(--goldenrod);
 filter:grayscale(100%);
+transition: 1s ease;
 -webkit-filter: grayscale(100%);
 -webkit-transition: all 1s ease;
 
@@ -126,6 +127,7 @@ filter:grayscale(100%);
     -webkit-filter: grayscale(0%);
     filter:none;
     transition: 1s ease;
+    
 }
 
 .container2{
