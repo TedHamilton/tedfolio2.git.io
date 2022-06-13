@@ -39,6 +39,9 @@ span{
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size:20px;
     margin-right:150px;
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 }
 
@@ -93,6 +96,9 @@ text-align: center;
     background-color: var(--black);
     border: 5px solid var(--goldenrod);
     border-left:0px;
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: larger;
@@ -141,6 +147,9 @@ filter:grayscale(100%);
     background-color: var(--black);
     border: 5px solid var(--goldenrod);
     border-left:0px;
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
     color: var(--cornsilk);
     padding:20px;
@@ -160,10 +169,13 @@ filter:grayscale(100%);
 
 .text-block3{
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
     position:absolute;
     width:100%;
     margin-top:600px;
 =======
+=======
+>>>>>>> Stashed changes
     position:absolute center;
     margin-top:400px;
 >>>>>>> Stashed changes
