@@ -14,12 +14,7 @@
 
 .body {
     background-color: var(--black);
-<<<<<<< HEAD
-    margin-right:-60px; 
-    flex-wrap:wrap
-=======
     margin-right:-60px;
->>>>>>> feature/flexbox
 }
 
 .header {
@@ -40,22 +35,10 @@
 }
 
 span{
-<<<<<<< HEAD
-<<<<<<< Updated upstream
     margin-right: 100px;
-=======
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size:20px;
     margin-right:150px;
-<<<<<<< Updated upstream
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
-=======
-    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    font-size:20px;
-    margin-right:150px;
->>>>>>> feature/flexbox
 }
 
 h1{
@@ -115,21 +98,9 @@ h1{
     margin:5px;
     color: var(--cornsilk);
     padding:20px;
-<<<<<<< HEAD
-<<<<<<< Updated upstream
-=======
     background-color: var(--black);
     border: 5px solid var(--goldenrod);
     border-left:0px;
-<<<<<<< Updated upstream
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
-=======
-    background-color: var(--black);
-    border: 5px solid var(--goldenrod);
-    border-left:0px;
->>>>>>> feature/flexbox
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: larger;
 }
@@ -171,27 +142,11 @@ filter:grayscale(100%);
     position:absolute;
     width:40%;
     margin:5px;
-<<<<<<< HEAD
-<<<<<<< Updated upstream
-    background-color: var(--goldenrod);
-=======
-    padding:20px;
-    background-color: var(--black);
-    border: 5px solid var(--goldenrod);
-    border-left:0px;
-<<<<<<< Updated upstream
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
-    color: var(--cornsilk);
-=======
->>>>>>> feature/flexbox
     padding:20px;
     background-color: var(--black);
     border: 5px solid var(--goldenrod);
     border-left:0px;
     color: var(--cornsilk);
-
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: larger;
 }
@@ -207,22 +162,11 @@ filter:grayscale(100%);
 
 
 .text-block3{
-<<<<<<< HEAD
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
+
     position:absolute;
     width:100%;
-    margin-top:600px;
-=======
-=======
->>>>>>> Stashed changes
-    position:absolute center;
     margin-top:400px;
->>>>>>> Stashed changes
-=======
     position:absolute center;
-    margin-top:400px;
->>>>>>> feature/flexbox
     background-color: var(--goldenrod);
     color: var(--cornsilk);
     padding:5px;
