@@ -160,7 +160,7 @@ filter:grayscale(100%);
 
 
 .text-block3{
-    position:absolute center;
+    position:absolute center; 
     margin-top:400px;
     background-color: var(--goldenrod);
     color: var(--cornsilk);
