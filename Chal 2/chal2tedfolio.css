@@ -35,7 +35,6 @@
 }
 
 span{
-    margin-right: 100px;
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size:20px;
     margin-right:150px;
@@ -147,6 +146,7 @@ filter:grayscale(100%);
     border: 5px solid var(--goldenrod);
     border-left:0px;
     color: var(--cornsilk);
+
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: larger;
 }
@@ -162,11 +162,8 @@ filter:grayscale(100%);
 
 
 .text-block3{
-
-    position:absolute;
-    width:100%;
-    margin-top:400px;
     position:absolute center;
+    margin-top:400px;
     background-color: var(--goldenrod);
     color: var(--cornsilk);
     padding:5px;
