@@ -177,7 +177,6 @@ transition: 1s ease;
 
 
 .pics-for-work{
-    align-content: right;
     padding:5px;
     background-color:var(--goldenrod);
     margin-top:605px;
@@ -197,6 +196,7 @@ transition: 1s ease;
 }
 
 .img5{
+    margin-left:300px;
     width:150px;
     height:150px;
     transition:1s ease;
@@ -211,6 +211,7 @@ transition: 1s ease;
 }
 
 .img6{ 
+    margin-left:300px;
     height:150px;
     width:150px;
     transition:1s ease;
