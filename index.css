@@ -183,9 +183,9 @@ transition: 1s ease;
 }
 
 .img4{
-    margin-left:600px;
-    width:200px;
-    height:200px;
+    margin-left:500px;
+    width:150px;
+    height:150px;
     transition:1s ease;
 }
 .img4:hover{
@@ -196,8 +196,8 @@ transition: 1s ease;
 }
 
 .img5{
-    width:200px;
-    height:200px;
+    width:150px;
+    height:150px;
     transition:1s ease;
 }
 
@@ -210,8 +210,8 @@ transition: 1s ease;
 }
 
 .img6{ 
-    height:200px;
-    width:200px;
+    height:150px;
+    width:150px;
     transition:1s ease;
 }
 .img6:hover{
