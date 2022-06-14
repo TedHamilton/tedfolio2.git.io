@@ -10,7 +10,7 @@
     --goldenrod: goldenrod;
     --black: black;
     --yellow: yellow;
-}
+} 
 
 .body {
     background-color: var(--black);
