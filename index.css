@@ -172,9 +172,6 @@ transition: 1s ease;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: larger;
     text-align:center;
-    display:flex;
-    justify-content:center;
-    flex-wrap:wrap;
     
 } 
 
