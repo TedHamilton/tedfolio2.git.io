@@ -212,7 +212,7 @@ transition: 1s ease;
     transition: 1s ease;
 }
 
-.img6{
+.img6{ 
     height:225px;
     width:225px;
     transition:1s ease;
@@ -222,4 +222,4 @@ transition: 1s ease;
     -ms-transform: scale(1.2);
     transform: scale(1.2);
     transition: 1s ease;
-}  
+}    
