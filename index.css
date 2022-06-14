@@ -177,6 +177,7 @@ transition: 1s ease;
 
 
 .pics-for-work{
+    align-content: right;
     padding:5px;
     background-color:var(--goldenrod);
     margin-top:605px;
