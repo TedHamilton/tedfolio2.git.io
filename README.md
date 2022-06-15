@@ -11,4 +11,8 @@ After adding links to the photos, I had to reaarange the layout of my page to lo
 After I was done editing my webpage on my secondary branch, I merged it to my Main branch to add the changes to my main files in my Github repository.
 
 
-Screenshots:
+Screenshots links:
+Top of page:
+https://bl6pap003files.storage.live.com/y4mXMCrdBfyv9YbCjuvgvkRGNKgSstaHI1HzSwar6q4VYQ5B75_Y75GGT-EpspyDgYumZh5S1ofwMrKb67ZTfuZQVZLpQPxV3s5fScLWh19VKvO3NrlUtEUbVeRq6gCcUYLo11ohm2vUrIWFtppZxZkBC1PUc9dXefKpG63D_YImPeyiV01nBWtxOS3vPu4fsvz?width=1933&height=1080&cropmode=none
+Bottom of page:
+https://bl6pap003files.storage.live.com/y4mG3AxvlTaobOFqGkdWDOU0kFP5al0iE3hc5q_IfdmnS6y5z3jq4UQm2hu3M8GIMNeGl8_QelCm8O_vlWJJLXZ-MtBFTpbhS8onI1cI9IdlGUj6XosOANjCIK8p8t0R_dqjXu_SNF_KNvN81MaWQedwRoS4LoXDOSSAW_UxRMUjZKn2IL7N5G42F0dwooLrslC?width=1933&height=1079&cropmode=none
