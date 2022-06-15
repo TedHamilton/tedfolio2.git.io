@@ -7,3 +7,7 @@ After awhile I decided to create more classes and classes inside of those classe
 I also created two branches to edit on, those being; feature/flexbox(which I struggled with flexbox on) and another branch, develop.
 After creating these branches, I used them both for different editing purposes at first and then went on to use mainly the feature/flexbox branch for changes I wanted to test.
 While using a branch for editing. I added links and hover to photos for the About Me photo and the photos for My Work photos.
+After adding links to the photos, I had to reaarange the layout of my page to look how I wanted it to look by playing with borders and spacing.
+After I was done editing my webpage on my secondary branch, I merged it to my Main branch to add the changes to my main files in my Github repository.
+
+
