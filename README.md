@@ -11,3 +11,4 @@ After adding links to the photos, I had to reaarange the layout of my page to lo
 After I was done editing my webpage on my secondary branch, I merged it to my Main branch to add the changes to my main files in my Github repository.
 
 
+Screenshots:
