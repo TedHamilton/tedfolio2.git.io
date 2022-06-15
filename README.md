@@ -9,6 +9,8 @@ After creating these branches, I used them both for different editing purposes a
 While using a branch for editing. I added links and hover to photos for the About Me photo and the photos for My Work photos.
 After adding links to the photos, I had to reaarange the layout of my page to look how I wanted it to look by playing with borders and spacing.
 After I was done editing my webpage on my secondary branch, I merged it to my Main branch to add the changes to my main files in my Github repository.
+Before publishing my page, I had to delete my directory folder, because I couldn't get my repository to publish. I deleted my folder but added the individual css and html files to my repository.
+The Branch I published was my Main branch, using the /root directory.
 
 
 Screenshots links:
